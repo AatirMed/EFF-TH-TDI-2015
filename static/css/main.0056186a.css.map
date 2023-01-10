@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.0056186a.css","mappings":"AAAA,KACI,SAAU,CACV,yBACJ,CACA,OACI,WACJ","sources":["App.css"],"sourcesContent":[".red{\r\n    color: red;\r\n    text-transform: capitalize;\r\n}\r\n.green{\r\n    color: green;\r\n}"],"names":[],"sourceRoot":""}
